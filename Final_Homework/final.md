@@ -16,7 +16,7 @@
 ### II.A 一维等概率等步长随机行走
 对于一个典型的一维问题, 我们假设 粒子初始位于 x=0, 步长 为1, 前进后退概率均为0.5. 为了减小涨落, 我们进行 N=10000 次的行走, 观察平均距离平方的行为, 如下面结果所示.
 
-![one_walk](./rand1d_0.5.pdf)
+![one_walk](https://github.com/1412kid/computationalphysics_n2014301020035/blob/master/Final_Homework/rand1d_0.5.eps)
 
 ## III 结论
 
